@@ -4,7 +4,7 @@
     <property name="created">2017-06-29T14:49:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-08-01T15:40:57</property>
+    <property name="modified">2017-08-02T15:25:03</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -13,6 +13,9 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
   <attributes>
+    <option name="JAVA_SEMICOLON">
+      <value />
+    </option>
     <option name="SIMPLE_KEY">
       <value>
         <option name="FOREGROUND" value="80" />
