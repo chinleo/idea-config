@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File 'C:\Users\wb-cq269322\.m2\repository\org\springframework\spring-webmvc\4.3.10.RELEASE\spring-webmvc-4.3.10.RELEASE-sources.jar!\org\springframework\web\servlet\config\annotation\WebMvcConfigurationSupport.java'" />
+    <option name="defaultScopeName" value="File 'C:\Users\wb-cq269322\.m2\repository\org\springframework\spring-webmvc\4.3.10.RELEASE\spring-webmvc-4.3.10.RELEASE-sources.jar!\org\springframework\web\servlet\config\annotation\WebMvcConfigurationSupport.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\wb-cq269322\.m2\repository\org\springframework\spring-webmvc\4.3.10.RELEASE\spring-webmvc-4.3.10.RELEASE-sources.jar!\org\springframework\web\servlet\config\annotation\WebMvcConfigurationSupport.java'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
