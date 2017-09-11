@@ -20,19 +20,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -51,10 +38,11 @@
       <path value="Toolbar Find Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunConfiguration" is_action="true" action_type="1" position="4">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="tasks.toolbar.group" is_group="true" action_type="1" position="15">
