@@ -22,8 +22,16 @@
           <option name="url" value="https://git.oschina.net/chinleo/chinleo.oschina.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:ib-domain/ib-park.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.aliyun.com/ib-domain/ib-park.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\DevelopCenter\MyProjects" />
+    <option name="cloneParentDir" value="D:\alibaba\ib-manager" />
   </component>
 </application>
