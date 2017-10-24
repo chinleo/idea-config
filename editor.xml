@@ -3,6 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="4" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="SqlEditorOptions">
