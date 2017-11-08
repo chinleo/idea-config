@@ -3,5 +3,8 @@
     <default_templates>
       <template name="properties.properties" reformat="false" live-template-enabled="false" />
     </default_templates>
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
   </component>
 </application>
