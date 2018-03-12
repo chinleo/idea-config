@@ -15,5 +15,12 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="Console.Jdbc.Close" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunToCursor" />
 </keymap>
