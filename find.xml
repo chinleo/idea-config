@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -31,12 +31,12 @@
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>.</mask>
       <mask>.j</mask>
       <mask>.jav</mask>
       <mask>.java</mask>
       <mask>*.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
