@@ -7,36 +7,15 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="pom.xml" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.jav</mask>
-      <mask>.java</mask>
-      <mask>*.java</mask>
-      <mask>pom.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
