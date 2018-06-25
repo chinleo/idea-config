@@ -4,10 +4,10 @@
       <mapping pattern="README" type="Markdown" />
       <removed_mapping ext="sql" approved="true" type="OdpsQL" />
       <mapping pattern="alipayPrivateKey" type="PLAIN_TEXT" />
-      <mapping ext="sql" type="PLAIN_TEXT" />
-      <mapping ext="properties1" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="release" type="PLAIN_TEXT" />
+      <mapping ext="properties1" type="PLAIN_TEXT" />
+      <mapping pattern=".sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
