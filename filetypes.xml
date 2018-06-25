@@ -8,6 +8,7 @@
       <mapping ext="release" type="PLAIN_TEXT" />
       <mapping ext="properties1" type="PLAIN_TEXT" />
       <mapping pattern=".sql" type="SQL" />
+      <mapping ext="sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
