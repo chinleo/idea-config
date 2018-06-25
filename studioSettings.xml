@@ -14,5 +14,11 @@
         </option>
       </SdkSettings>
     </option>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="enableAutoCheck" value="false" />
+        <option name="installedPluginVersion" value="2.9.2" />
+      </UpdaterSettings>
+    </option>
   </component>
 </application>
