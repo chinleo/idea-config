@@ -38,6 +38,10 @@
           <option name="url" value="git@code.aliyun.com:ib-domain/device_service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:ib-domain/user_service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\alibaba\ib-manager" />
