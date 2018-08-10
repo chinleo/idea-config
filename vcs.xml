@@ -54,9 +54,13 @@
           <option name="url" value="http://gitlab.alibaba-inc.com/mj162546/ibms-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/banq/jdonframework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\alibaba" />
+    <option name="cloneParentDir" value="D:\examples-projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
