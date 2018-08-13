@@ -58,9 +58,13 @@
           <option name="url" value="https://github.com/banq/jdonframework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:ib-domain/isv_console_app_manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\examples-projects" />
+    <option name="cloneParentDir" value="D:\alibaba" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
