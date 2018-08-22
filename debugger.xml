@@ -1,7 +1,10 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DEBUGGER_TRANSPORT" value="1" />
     <option name="FORCE_CLASSIC_VM" value="false" />
+    <option name="DISABLE_JIT" value="true" />
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="SKIP_GETTERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
     <option name="WATCH_RETURN_VALUES" value="true" />
@@ -90,7 +93,10 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="groovy_debugger">
         <configuration>
