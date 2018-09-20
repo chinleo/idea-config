@@ -36,6 +36,11 @@
           <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
+      </entry>
     </option>
     <option name="SHARED_SETTINGS">
       <SharedSettings>
