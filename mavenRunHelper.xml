@@ -57,6 +57,9 @@
             <Goal>
               <option name="commandLine" value="tomcat7:run" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="dependency:tree" />
+            </Goal>
           </list>
         </option>
       </Goals>
