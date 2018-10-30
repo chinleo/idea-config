@@ -94,6 +94,10 @@
           <option name="url" value="http://gitlab.alibaba-inc.com/ibos-domain/campus-console.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/ibos-base/ib-base-user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\alibaba" />
