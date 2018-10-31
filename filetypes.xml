@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="alipayPrivateKey" type="PLAIN_TEXT" />
       <mapping ext="properties1" type="PLAIN_TEXT" />
