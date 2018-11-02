@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="DEBUGGER_TRANSPORT" value="1" />
     <option name="FORCE_CLASSIC_VM" value="false" />
     <option name="DISABLE_JIT" value="true" />
     <option name="SKIP_GETTERS" value="true" />
