@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="alipayPrivateKey" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="properties1" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="release" type="PLAIN_TEXT" />
